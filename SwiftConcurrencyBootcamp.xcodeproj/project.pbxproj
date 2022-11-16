@@ -12,6 +12,7 @@
 		7AB0857E2925621E0059984E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0857D2925621E0059984E /* Assets.xcassets */; };
 		7AB085812925621E0059984E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AB085802925621E0059984E /* Preview Assets.xcassets */; };
 		7AB08588292562640059984E /* DoCatchTryThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB08587292562640059984E /* DoCatchTryThrows.swift */; };
+		7AB0858A292587040059984E /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB08589292587040059984E /* DownloadImageAsync.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		7AB0857D2925621E0059984E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7AB085802925621E0059984E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7AB08587292562640059984E /* DoCatchTryThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrows.swift; sourceTree = "<group>"; };
+		7AB08589292587040059984E /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				7AB0857D2925621E0059984E /* Assets.xcassets */,
 				7AB0857F2925621E0059984E /* Preview Content */,
 				7AB08587292562640059984E /* DoCatchTryThrows.swift */,
+				7AB08589292587040059984E /* DownloadImageAsync.swift */,
 			);
 			path = SwiftConcurrencyBootcamp;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AB0858A292587040059984E /* DownloadImageAsync.swift in Sources */,
 				7AB0857C2925621D0059984E /* ContentView.swift in Sources */,
 				7AB08588292562640059984E /* DoCatchTryThrows.swift in Sources */,
 				7AB0857A2925621D0059984E /* SwiftConcurrencyBootcampApp.swift in Sources */,
