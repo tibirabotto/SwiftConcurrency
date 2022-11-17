@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A5AC2B92925FA3C00343C39 /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A5AC2B82925FA3B00343C39 /* AsyncAwait.swift */; };
 		7AB0857A2925621D0059984E /* SwiftConcurrencyBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB085792925621D0059984E /* SwiftConcurrencyBootcampApp.swift */; };
 		7AB0857C2925621D0059984E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB0857B2925621D0059984E /* ContentView.swift */; };
 		7AB0857E2925621E0059984E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0857D2925621E0059984E /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A5AC2B82925FA3B00343C39 /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 		7AB085762925621D0059984E /* SwiftConcurrencyBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrencyBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AB085792925621D0059984E /* SwiftConcurrencyBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyBootcampApp.swift; sourceTree = "<group>"; };
 		7AB0857B2925621D0059984E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				7AB0857F2925621E0059984E /* Preview Content */,
 				7AB08587292562640059984E /* DoCatchTryThrows.swift */,
 				7AB08589292587040059984E /* DownloadImageAsync.swift */,
+				7A5AC2B82925FA3B00343C39 /* AsyncAwait.swift */,
 			);
 			path = SwiftConcurrencyBootcamp;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				7AB0858A292587040059984E /* DownloadImageAsync.swift in Sources */,
 				7AB0857C2925621D0059984E /* ContentView.swift in Sources */,
+				7A5AC2B92925FA3C00343C39 /* AsyncAwait.swift in Sources */,
 				7AB08588292562640059984E /* DoCatchTryThrows.swift in Sources */,
 				7AB0857A2925621D0059984E /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
