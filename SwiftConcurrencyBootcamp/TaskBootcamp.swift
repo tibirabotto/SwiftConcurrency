@@ -98,7 +98,7 @@ struct TaskBootcamp: View {
 //            Task(priority: .userInitiated) {
 //                print("USER INITIATED: \(Thread.current) : \(Task.currentPriority)")
 //            }
-        }
+        //}
     }
 }
 
